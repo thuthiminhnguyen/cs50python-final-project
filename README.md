@@ -70,6 +70,3 @@ Comment: The constructed portfolio clearly has a higher return compared to the p
 * [Efficient Frontier](https://www.investopedia.com/terms/e/efficientfrontier.asp#:~:text=The%20efficient%20frontier%20is%20the,given%20level%20of%20expected%20return.)
 * [PyPortfolioOpt](https://pypi.org/project/pyportfolioopt/)
 * [Yahoo! Finance's API](https://pypi.org/project/yfinance/)
-
-## Contact
-Feel free to contact me on my [email](@nguyenthiminhthu.21130@gmail.com).
